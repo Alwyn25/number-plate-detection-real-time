@@ -25,3 +25,9 @@
 ├── tesseract_path.txt
 ├── yolov8_object_detection_on_custom_dataset.ipynb
 └── web.txt
+
+In this structure:
+- The `src` directory contains Python source code files like `main.py` and `utils.py`.
+- The `data` directory contains data files like `dataset.csv`.
+- The `README.md` file typically describes the project and provides instructions for setting it up.
+- 
