@@ -1,21 +1,19 @@
-# number-plate-detection-real-time
+#numberplatedetection
 
-numberplatedetection
 ├── annotated_images
-  ├── images
-    ├── train
-    ├── validation
-  ├── labels
-    ├── train
-    ├── validation
-├── images
-  ├── class.txt
-  ├── image files
-  ├── annotated.txt's
-├── annotated_images.zip
+│   ├── images
+│   │   ├── train
+│   │   └── validation
+│   ├── labels
+│   │   ├── train
+│   │   └── validation
+│   └── annotated_images.zip
 ├── best.pt
 ├── car_plate_data.txt
 ├── car_plate_database.db
+├── class.txt
+├── image files
+├── annotated.txt's
 ├── coco1.txt
 ├── data.txt
 ├── img.py
