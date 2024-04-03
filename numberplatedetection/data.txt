@@ -1,0 +1,6 @@
+train: ../annotated_images/images/training
+val: ../annotated_images/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['NumberPlate']
