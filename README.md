@@ -1,4 +1,4 @@
-# Real-Time Number Plate Detection"
+# Real-Time Number Plate Detection
 ## 📝Contents:
 <details><summary>💡An Introduction about YOLO and darknet.</summary>
 
